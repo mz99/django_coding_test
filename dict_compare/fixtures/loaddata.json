@@ -1,0 +1,18 @@
+[
+  {
+    "model": "myapp.question",
+    "fields": {
+      "question_text": "Who are you",
+      "votes": 1,
+      "yes_no": True
+    }
+  },
+  {
+    "model": "myapp.question",
+    "fields": {
+      "question_text": "Who are you again",
+      "votes": 1,
+      "yes_no": False
+    }
+  }
+]
